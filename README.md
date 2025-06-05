@@ -1,3 +1,9 @@
+环境：`docker run -d --entrypoint /bin/sh -v ./:/app -w /app --network host caddy:builder -c "sleep infinity"`
+
+命令行：`docker exec -it <name> /bin/sh`
+
+---
+
 运行：`xcaddy run`
 
 编译：`xcaddy build`
