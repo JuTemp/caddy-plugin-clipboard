@@ -34,4 +34,4 @@ Caddyfile
     }
 }
 ```
-要写route 因为他不属于[build-on order](https://caddyserver.com/docs/caddyfile/directives#directive-order)
+要写route 因为他不属于[build-in order](https://caddyserver.com/docs/caddyfile/directives#directive-order)
